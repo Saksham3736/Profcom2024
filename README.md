@@ -4,10 +4,11 @@ Hello World, I am Saksham, lives in Haibowal Kalan, Ludhiana. I am a hustler, co
 ![](Saksham.jpg)
 
 # EDUCATION
+
 | SCHOOL NAME | CLASS | YEAR |
-|-------------|-------|------|
-| BVM SCHOOL| 10| 2022|
-|BVM SCHOOL | 12|2024|
+|:-----------:|:-----:|:----:|
+| BVM SCHOOL | 10 | 2022 |
+| BVM SCHOOL | 12 | 2024 |
 
 # MARKS OBTAINED
 >In Class 10th
